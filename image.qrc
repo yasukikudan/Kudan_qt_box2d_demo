@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>lgpl_icons/applications-internet.png</file>
+        <file>lgpl_icons/kde.png</file>
+    </qresource>
+</RCC>
